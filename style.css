@@ -21,12 +21,13 @@ body {
 
 
 .left-side-hidder {
-    padding: 13rem;
+    padding: 15rem;
     background-color: hsl(196, 51%, 16%);
     position: absolute;
-    top: 25%;
+    top: 23%;
     left: 32%;
-    width: 23rem;
+    width: 29rem;
+
 }
 
 .left-side-hidder01 {
@@ -63,9 +64,10 @@ body {
     padding: 14rem;
     background-color: hsl(196, 51%, 16%);
     position: absolute;
-    top: 26%;
+    top: 25%;
     left: 40%;
-    width: -7rem;
+    height: 20rem;
+    
 }
 
 .right-top {
