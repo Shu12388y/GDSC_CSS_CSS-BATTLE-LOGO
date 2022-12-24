@@ -1,0 +1,179 @@
+html,
+body {
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: hsl(196, 51%, 16%);
+}
+
+.left {
+    position: absolute;
+    top: 34%;
+    border-radius: 2rem 3rem;
+    box-shadow: -20px -4px 0 63px yellow;
+    left: 23%;
+    padding: 10rem;
+}
+
+
+
+.left-side-hidder {
+    padding: 13rem;
+    background-color: hsl(196, 51%, 16%);
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    width: 23rem;
+}
+
+.left-side-hidder01 {
+    padding: 3rem;
+    background-color: hsl(196, 51%, 16%);
+    position: absolute;
+    top: 73%;
+    left: 32%;
+    width: 12rem;
+}
+
+.left-top {
+    position: absolute;
+    top: 46%;
+    border-radius: 15%;
+    background-color: yellow;
+    left: 14%;
+    padding: 4em;
+    width: -15rem;
+}
+
+.right {
+
+    position: absolute;
+    top: 34%;
+    border-radius: 2rem 3rem;
+    box-shadow: -20px -4px 0 63px yellow;
+    left: 56%;
+    padding: 10rem;
+    transform: rotateZ(180deg);
+}
+
+.right-side-hidder {
+    padding: 14rem;
+    background-color: hsl(196, 51%, 16%);
+    position: absolute;
+    top: 26%;
+    left: 40%;
+    width: -7rem;
+}
+
+.right-top {
+    position: absolute;
+    top: 46%;
+    border-radius: 15%;
+    background-color: yellow;
+    left: 77%;
+    padding: 4em;
+    width: -15rem;
+}
+
+.sword {
+    position: absolute;
+    top: 21%;
+    left: 42%;
+    transform: rotateZ(314deg);
+}
+
+.upper-part {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(255, 242, 0);
+}
+
+.body {
+    background-color: yellow;
+    height: 20rem;
+    width: 6.2rem;
+}
+
+.handle {
+    background-color: yellow;
+    height: 3rem;
+    width: 12rem;
+    position: absolute;
+    left: -46%;
+    
+}
+
+.handle-part {
+    background-color: yellow;
+    height: 6rem;
+    width: 3.5rem;
+    position: absolute;
+    left: 24%;
+    top: 111%;
+    border-radius: 0rem 0rem 1rem 1rem;
+}
+
+.sword-lower {
+
+    position: absolute;
+    top: 66%;
+    left: 37%;
+    transform: rotateZ(44deg);
+
+
+}
+
+.handle01 {
+    background-color: yellow;
+    height: 3rem;
+    width: 12rem;
+
+}
+
+
+
+
+.handle-part01 {
+    background-color: yellow;
+    width: 3.5rem;
+    height: 6rem;
+    position: absolute;
+    left: 34%;
+    border-radius: 0rem 0rem 1rem 1rem;
+}
+.upper{
+    background-color: yellow;
+    width: 6.2rem;
+    height: 2rem;
+    position: absolute;
+    top: 64%;
+    left: 41%;
+    transform: rotateZ(44deg);
+}
+.upper-sword{
+    position: absolute;
+    left: 56%;
+    top: 21%;
+    transform: rotateZ(44deg);
+
+}
+.upper-part-sword{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(255, 242, 0);
+
+}
+.upper-body-sword{
+    background-color: yellow;
+    height: 10rem;
+    width: 6.2rem;
+
+
+}
